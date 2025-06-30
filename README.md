@@ -1,16 +1,24 @@
-# flutter_application
+# Flutter User Directory App
 
-Flutter application that demonstrates responsive UI design, state management, and REST API integration.
+## 📱 Overview
+A responsive Flutter app demonstrating:
+- REST API integration
+- State management (Provider)
+- User detail navigation
+- Add new user locally
+- Search feature
 
-## Getting Started
+## 🔧 Features
+- Fetch users from `https://jsonplaceholder.typicode.com/users`
+- Responsive layout
+- Add users locally with a form
+- Search users
+- Error handling (basic)
+- Page transitions
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+```bash
+git clone https://github.com/YOUR_USERNAME/flutter-user-directory.git
+cd flutter-user-directory
+flutter pub get
+flutter run
