@@ -1,4 +1,4 @@
-# Flutter User Directory App
+# Flutter Application
 
 ## 📱 Overview
 A responsive Flutter app demonstrating:
@@ -18,7 +18,7 @@ A responsive Flutter app demonstrating:
 
 ## 🚀 Getting Started
 ```bash
-git clone https://github.com/YOUR_USERNAME/flutter-user-directory.git
-cd flutter-user-directory
+git clone https://github.com/deepaknigam2004/Flutter_Application.git
+cd flutter_application
 flutter pub get
 flutter run
